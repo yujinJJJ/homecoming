@@ -1,0 +1,8 @@
+{
+  "name": "해외 RFI 대응 현황 대시보드",
+  "description": "엑셀 데이터를 기반으로 시각화 및 조건별 AI 비교 분석을 제공하는 해외사업관리팀용 대시보드 (다중 필터 및 기간 설정 지원)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
